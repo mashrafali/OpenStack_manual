@@ -1,0 +1,4 @@
+https://keithtenzer.com/2015/10/14/howto-openstack-deployment-using-tripleo-and-the-red-hat-openstack-director/
+
+boot-Driver
+https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/11/html/director_installation_and_usage/appe-Power_Management_Drivers
